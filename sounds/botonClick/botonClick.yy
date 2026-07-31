@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v1",
+  "%Name":"botonClick",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.5555556,
+  "exportDir":"",
+  "name":"botonClick",
+  "parent":{
+    "name":"SigMolZ",
+    "path":"SigMolZ.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"botonClick.wav",
+  "type":0,
+  "volume":1.0,
+}

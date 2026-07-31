@@ -1,0 +1,1 @@
+mostrar_rect = false;

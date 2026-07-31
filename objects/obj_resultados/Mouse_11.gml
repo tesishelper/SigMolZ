@@ -1,0 +1,1 @@
+dibujar_linea = false;
